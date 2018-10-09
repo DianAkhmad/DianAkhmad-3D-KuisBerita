@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".berita3">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="284dp"
+        android:layout_height="171dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.456"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/persib" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="361dp"
+        android:layout_height="360dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:text="TRIBUNJABAR.ID, BANDUNG - Pertandingan antara Persib Bandung vs Persija Jakarta memang telah usai. Pada laga yang digelar di Stadion Gelora Bandung Lautan Api (GBLA), Minggu (23/9/2018) tersebut, Persib Bandung berhasil mengalahkan Persija Jakarta dengan skor 3-2. Tiga gol Maung Bandung dicetak oleh Ezechiel N Douassel, Jonathan Bauman, dan Bojan Malisic. Sementara gol balasan Macan Kemayoran diciptakan Jaimerson Xavier dan Rohit Chand. Laga ini sebetulnya berjalan sangat seru dan menarik untuk disaksikan. Namun sayang, insiden tewasnya Harlingga Sirila, suporter Persija Jakarta yang dikeroyok oleh oknum bobotoh membuat banyak orang teralihkan dari hasil laga ini. Ada beberapa fakta menarik yang tersaji pada pertandingan ini. Berikut lima fakta menarik yang terlupakan pada pertandingan Persib vs Persija. 1. Pertandingan sangat keras   Layaknya sebuah el classico, pertandingan sore itu langsung disajikan oleh permainan keras kedua tim  Bahkan kartu kuning pertama langsung diberikan kepada bomber Persib, Jonathan Bauman pada menit ke-3. Dua menit berselang, kartu kuning diberikan oleh wasit Yeni Krisdianto, kepada Ardi Idrus. Total, ada 10 kartu kuning keluar dari saku wasit. Lima untuk Persib Bandung dan lima untuk Persija Jakarta. 2. Pencipta gol semuanya pemain asing. Lima gol tercipta pada laga yang mempertemukan dua tim sarat sejarah ini. Tiga gol yang dicetak oleh Maung Bandung semuanya berasal dari kaki dan kepala pemain asing. Sementara itu, dua gol yang dicetak oleh Macan Kemayoran pun semuanya berasal dari pemain impor. Gol pertama Persib dicetak oleh Ezechiel N Doussel pada menit ke-28. Persija membalas melalui sundulan Jaimerson Xavier pada masa injury time babak pertama. Jonathan Bauman membuat Persib kembali unggul di menit 60 melalui titik putih. Lima menit berselang, Rohit Chand kembali skor sama kuat setelah tandukannya menghujam ke gawang Persib yang dikawal Muhammad Natshir. Gol penentu kemenangan diciptakan Bojan Malisic pada detik terakhir pertandingan. Melalui skema tendangan bebas, Bojan yang berdiri tanpa terkawal mampu memanfaatkan situasi tersebut dan membuatnya menjadi gol. 3. Stadion GBLA Penuh Jika menyaksikan pertandingan dari layar televisi, stadion tampak sangat penuh dan tak ada bangku yang tersisa. Seluruh tribun dipenuhi oleh bobotoh yang membuat Stadion GBLA bergemuruh sepanjang laga. 38 ribu lembar tiket yang dijual oleh panitia penyelenggara (panpel) dikabarkan ludes sejak hari pertama dibuka. Bukan hanya itu, di luar stadion pun masih banyak bobotoh yang tak bisa masuk. Beberapa di antaranya memilih untuk menyaksikan pertandingan melalui layar lebar yang disediakan panpel. Kehadiran puluhan ribu bobotoh ini tampaknya berhasil membuat Persija Jakarta tak berdaya di kandang Maung Bandung. 4. Kemenangan Persib atas Persija di GBLA. Persib Bandung akhirnya berhasil menang atas Persija dalam lima tahun terakhir. Kemenangan ini pun menjadi catatan tersendiri karena untuk pertama kalinya, Stadion GBLA bertuah untuk Persib ketika berhadapan dengan Persija. Musim lalu, Maung Bandung gagal mengalahkan Macan Kemayoran setelah gol cepat Achmad Jufriyanto dibalas oleh Ramdani Lestaluhu. Skor 1-1 menjadi akhir dari pertandingan yang berjalan cukup panas itu. Saat gelaran ISC tahun 2016 pun, Persija membuat Persib gagal meraih poin penuh. Persib yang masih diperkuat oleh Sergio Van Dijk dan Zulham Zamrun gagal mengalhkan Persija dan hanya mampu bermain imbang 0-0. Sehingga, dari tiga kali pertemuan di Stadion GBLA, ini adalah kali pertama Persib menang"
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>

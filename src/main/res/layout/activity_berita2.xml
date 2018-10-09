@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".berita2">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="235dp"
+        android:layout_height="131dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginRight="56dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.513"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/aremania" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Tanggapan Legenda Timnas atas Tindakan Aremania di Laga Arema vs Persebaya"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="289dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="184dp"
+        android:text="INDOSPORT.COM - Laga sengit antara Arema FC vs Persebaya Surabaya dalam lanjutan kompetisi sepak bola tertinggi Indonesia, Liga 1 musim 2018/2019 usai dipertandingkan. Meski laga telah berakhir, namun sejumlah intrik selama laga berlangsung berhasli menarik perhatian para pecinta sepak bola nasional, terlebih beberapa tindakan kurang terpuji yang kerap dilakukan beberapa suporter tim tuan rumah. Dalam laga yang berlangsung di stadion Kanjuruhan-Malang, Sabtu (06/10/18) tersebut, Arema berhasil menang atas sang rival berkat gol semata wayang yang dicetak Ahmad Nur Hadianto di menit ke-70. Baca Juga Masuk Lapangan, Ini Aksi Berkelas Hamka Hamzah ke Aremania Pasca Kandaskan Persebaya Sayang, kemenangan tersebut terasa hambar akibat tindakan kurang terpuji para Aremania. Salah satunya tindakan provokatif kepada para pemain Persebaya, memasuki lapangan jelang laga dimulai dan seusai laga, serta pelemparan botol ke arah pemain. Aksi tersebut menjadi anti klimaks atas deklarasi damai yang dilakukan beberapa tim (mungkin termasuk Arema), yang mengutuk tindakan keji suporter Persib hingga menewaskan Haringga Sirla, salah seorang pendukung Persija. Tindakan tersebut pun mendapat respon beragam dari publik pecinta sepak bola, termasuk salah satunya dari legenda Timnas Indonesia, Bambang Pamungkas. Melalui akun twitternya, Bepe sapaan akrab Bambang menyayangkan sikap Aremania pada laga tersebut dan berharap PSSI mengambil tindakan tegas kepada pihak terkait. Sangat disayangkan, kita tunggu saja ketegasan Federasi.... https://t.co/g0nKBJIZuy — •Bambang Pamungkas• (@bepe20) October 7, 2018 Sebelum menjamu Persebaya, Singo Edan sendiri melakukan pertandingan persahabatan kontra Madura United sebagai bentuk pemersatu suporter, sekaligus mengumpulkan dana untuk keluarga Haringga Sirla. Baca Juga Chant 'Dibunuh Saja' Terdengar di Laga Arema FC vs Persebaya Surabaya? Sayang, aksi tersebut tampaknya tak dimaknai dengan sepenuh hati oleh sebagian Aremania dan terus melakukan aksi kurang terpuji dalam laga kemarin."
+        android:textSize="9sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>

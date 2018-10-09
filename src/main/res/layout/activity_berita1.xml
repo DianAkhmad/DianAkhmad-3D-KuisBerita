@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".berita1">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="268dp"
+        android:layout_height="131dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginLeft="56dp"
+        android:layout_marginRight="56dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="68dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.961"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ratna" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="329dp"
+        android:layout_height="39dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginStart="36dp"
+        android:text="Akankah Ratna Buka-Bukaan?"
+        android:textColor="@android:color/background_dark"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.039" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="368dp"
+        android:layout_height="330dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text='Jakarta - Kasus Ratna Sarumpaet masih berlanjut. Polisi mengembangkan penyidikan kasus hoax Ratna Sarumpaet dengan memeriksa saksi-saksi.   Langkah ini didukung pelapor kasus hoax Ratna, Muannas Al-Aidid. Ketua Cyber Indonesia itu menilai tidak adil bila hanya Ratna Sarumpaet yang ditetapkan menjadi tersangka. Dia menilai ada sejumlah pihak lain yang seharusnya ikut diproses hukum.  "Ya menurut kita nggak fair dong. Harus diproses. Tapi biarkan polisi melakukan penyidikan terkait hal itu," kata Muannas di Mapolda Metro Jaya, Jalan Jenderal Sudirman, Jakarta, Senin (8/10/2018).   Muannas menyebut satu per satu peristiwa yang ada di balik penyebaran berita bohong penganiayaan Ratna Sarumpaet. Mulai dari pernyataan para tokoh di media sosial hingga konferensi pers yang dilakukan Prabowo Subianto.  "Jadi ini salah satu rangkaian pidana yang sebetulnya satu paket satu kesatuan, antara yang menceritakan, dengan yang kemudian yang menyebarkan, baik itu di media online maupun di media sosial. Atau kemudian melalui presscon, termasuk kegiatan pengumpulan massa dan misalnya ada buat pamflet, orasi segala macam. Itu bagian dari rangkaian kegaduhan," paparnya.  Sementara itu, pengacara Ratna Sarumpaet, Desmihardi, mengaku tak mempermasalahkan bila polisi mengembangkan penyidikan.  "Ya kalau itu kan tugas dan kewenangan kepolisian kan, silakan saja gituya," kata Desmihardi saat dihubungi.  Dia mendorong kliennya terbuka memberikan keterangan kepada polisi. Desmihardi berharap Ratna tak menutup-nutupi informasi mengenai kasushoax tersebut.  "Yang pasti, bisa jadi polisi mengembangkan ke sana. Silakan polisi. Kami dari sisi Bu Ratna Sarumpaet, kami mendorong memang membuka apa adanya tentang masalah ini, jangan ditutup-tutupi," ujarnya.   Desmihardi kemudian bicara soal pemeriksaan lanjutan terhadap Ratna, Sabtu (6/10) lalu. Menurut dia, polisi menanyakan hal-hal detail kepada Ratna, termasuk pertemuannya dengan sejumlah tokoh.  "Ya, yang diperiksa polisi, BAP polisi itu hal-hal sedetail mungkin tentang kegiatan bu Ratna terutama dari tanggal 20 sampai tanggal 2. Nah kemarin itu hal-hal detail menyangkut tentang proses ke rumah sakit. Ditanya semua. Termasuk memang perkenalan, pengetahuan beliau tentang beberapa tokoh," bebernya.   Terkait kasus hoax penganiayaan, Gerindra ikut melaporkan Ratna Sarumpaet ke Polda Metro Jaya. Sekretaris Lembaga Advokasi Hukum Gerindra DKI Jakarta Mohamad Taufiqurrahman mengatakan pelaporan ini tetap dibuat untuk mempertegas tidak ada kaitan antara hoax penganiayaan dan kubu Prabowo-Sandiaga.  "Ini perlu diluruskan bahwa kesalahan ini sebenarnya tidak ada kaitan Pak Prabowo maupun Prabowo-Sandi. Sebagai dilontarkan beberapa pihak, ini dinyatakan konspirasi, dari tim terhadap lawan politik. Maksud kami, ini untuk mempertegas tim Pak Prabowo itu tidak mempunyai keterkaitan dengan itu," ujar Taufiq.  '
+        android:textSize="8sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.93" />
+</android.support.constraint.ConstraintLayout>
